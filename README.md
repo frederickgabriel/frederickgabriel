@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+Soy estudiante de Ingeniería en Sistemas Computacionales con gran interés en el desarrollo de software, la tecnología y la resolución de problemas mediante herramientas informáticas. Me considero una persona entusiasta, autodidacta y en constante aprendizaje, siempre buscando adquirir nuevos conocimientos y mejorar mis habilidades técnicas y profesionales.<br><br>A lo largo de mi formación académica he trabajado con diferentes tecnologías, lenguajes de programación y herramientas de desarrollo, participando en proyectos relacionados con desarrollo web, aplicaciones backend, bases de datos, redes y sistemas Linux. Me interesa especialmente el desarrollo de soluciones funcionales que permitan automatizar procesos, optimizar tareas y mejorar la experiencia de los usuarios.<br><br>Tengo experiencia en soporte técnico, diagnóstico y solución de problemas tanto de hardware como de software, así como en configuración de sistemas operativos, mantenimiento de equipos de cómputo y asistencia a usuarios. Además, he trabajado con entornos Linux como Fedora y Zorin OS, explorando herramientas de personalización, administración del sistema y software de código abierto.<br><br>Entre las tecnologías y herramientas con las que he trabajado se encuentran:<br><br>HTML, CSS y JavaScript<br>Node.js y Express<br>PHP<br>MySQL y Firebase<br>Git y GitHub<br>Linux y administración básica de sistemas<br>APIs REST<br>Android Studio y Kotlin<br>Cisco Packet Tracer y fundamentos de redes<br><br>Disfruto aprender nuevas tecnologías y experimentar con distintas herramientas de desarrollo para ampliar mis conocimientos y adaptarme a diferentes entornos de trabajo. También me interesa el área de redes, soporte técnico, desarrollo backend y administración de sistemas.<br><br>Actualmente continúo desarrollando proyectos personales y académicos que me permitan fortalecer mis habilidades prácticas, mejorar mi lógica de programación y obtener experiencia en tecnologías modernas utilizadas en la industria del software.<br><br>Mi objetivo es seguir creciendo profesionalmente como ingeniero en sistemas, participar en proyectos innovadores y contribuir con soluciones tecnológicas útiles, eficientes y bien estructuradas.
 
-<!--
-**frederickgabriel/frederickgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GABRIEL AGUILAR ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Frederick482) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GABRIEL AGUILAR ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frederickaguilar317@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=frederickgabriel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=frederickgabriel&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=frederickgabriel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=frederickgabriel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=frederickgabriel&icon=10&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
